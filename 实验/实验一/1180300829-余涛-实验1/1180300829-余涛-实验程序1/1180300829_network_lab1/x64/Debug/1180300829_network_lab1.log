@@ -1,0 +1,9 @@
+﻿  1180300829_network_lab1.cpp
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(100,8): warning C4101:  “dwThreadID”: 未引用的局部变量
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(242,63): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(248,99): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(290,85): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(208,8): warning C4101:  “p”: 未引用的局部变量
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(199,14): warning C4101:  “clientAddr”: 未引用的局部变量
+C:\Users\Administrator\source\repos\1180300829_network_lab1\1180300829_network_lab1\1180300829_network_lab1.cpp(344,30): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1180300829_network_lab1.vcxproj -> C:\Users\Administrator\source\repos\1180300829_network_lab1\x64\Debug\1180300829_network_lab1.exe
